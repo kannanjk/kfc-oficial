@@ -1,0 +1,110 @@
+.header{
+    background-color: red;
+    height: 91px;
+}
+body{
+    margin: 0;
+}
+.logo{
+    margin-left: 58px;
+    margin-top: 7px;
+}
+.nav{
+    margin-left: 280px;
+    margin-top: -67px;
+}
+.val{
+    margin-left: -120px;
+    font-size: 21px;
+}
+ .soci{
+    margin-left: -4px;
+    margin-top: -26px;
+    font-size: 20px;
+ }
+ .news{
+    margin-left: 179px;
+    margin-top: -26px;
+    font-size: 20px;
+ }
+ .her{
+    margin-left: 261px;
+    margin-top: -20px;
+ }
+ .loc{
+    margin-left: 374px;
+    margin-top: -19px;
+ }
+ .P1{
+    text-align: center;
+    margin-top: -738px;
+    font-size: 30px;
+    color: white;
+    font-style: unset;
+ }
+ .p2{
+    margin-top: 683px;
+    margin-left: 263px;
+    font-size: 22px;
+    font-style: revert;
+ }
+ .p3{
+    text-align: center;
+    font-size: 21px;
+ }
+ .btn{
+    margin-left: 600px;
+    background: red;
+    height: 41px;
+ }
+ .btn1{
+    WIDTH: 335px;
+    height: 72px;
+    background: red;
+ }
+ .bt2{
+    WIDTH: 335px;
+    height: 72px;
+    background: red;
+ }
+ .btn2{
+    margin-left: 334px;
+    margin-top: -72px
+ }
+ .bt3{
+    WIDTH: 335px;
+    height: 72px;
+    background: red;
+ }
+ .btn3{
+    margin-left: 669px;
+    margin-top: -72px;
+ }
+ .bt4{
+    WIDTH: 335px;
+    height: 72px;
+    background: red;
+ }
+ .btn4{
+    margin-left: 1003px;
+    margin-top: -72px;
+ }
+ .logo2{
+    margin-left: 70px;
+    margin-top: 63px;
+ }
+ .foot1{
+    text-align: center;
+    margin-left: -358px;
+    margin-top: -117px;
+ }
+ .foot2{
+    text-align: center;
+    MARGIN-LEFT: 148px;
+    margin-top: -246px;
+ }
+ .foot3{
+    text-align: center;
+    margin-left: 755px;
+    margin-top: -143px;
+ }
